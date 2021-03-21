@@ -21,4 +21,4 @@ end ends with:
 lobby.history = "150"
 
 lines later like: lobby.login
-or not includet. take yours.
+or not included. take yours.
