@@ -9,3 +9,16 @@ Ctrl+FirstLetter of the Building
 
 ALT+FirstLetter of the Creature
  ==> selects Creature or Creatures
+
+# this user.cfg
+
+starts with:
+
+ autociv.gamesetup.countdown.enabled = "false"
+
+end ends with:
+
+lobby.history = "150"
+
+lines later like: lobby.login
+or not includet. take yours.
