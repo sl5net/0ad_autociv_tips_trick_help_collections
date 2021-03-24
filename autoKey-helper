@@ -7,7 +7,6 @@ mouse.wait_for_click(1, timeOut=4.0) # timeOut=
 time.sleep(0.1)
 keyboard.press_key('<ctrl>')
 time.sleep(0.1)
-# keyboard.send_keys("<F5>")
 keyboard.fake_keypress('<f6>') 
 time.sleep(0.1)
 keyboard.release_key('<ctrl>')
