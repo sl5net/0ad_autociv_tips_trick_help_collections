@@ -1,0 +1,15 @@
+# 0 A.D. rember lastTower-CtrlF6 STRG5-8
+# config:
+# set hotkey same as your build hotkey in 0ad
+# set Window Filtert: 0ad
+# free slots F5-F8
+mouse.wait_for_click(1, timeOut=4.0) # timeOut=
+time.sleep(0.1)
+keyboard.press_key('<ctrl>')
+time.sleep(0.1)
+# keyboard.send_keys("<F5>")
+keyboard.fake_keypress('<f6>') 
+time.sleep(0.1)
+keyboard.release_key('<ctrl>')
+
+
