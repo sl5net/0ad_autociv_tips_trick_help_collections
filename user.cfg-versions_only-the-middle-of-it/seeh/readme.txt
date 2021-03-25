@@ -10,6 +10,13 @@ Ctrl+FirstLetter of the Building
 ALT+FirstLetter of the Creature
  ==> selects Creature or Creatures
 
+# problems:
+## select dog conflicts with Alt+D developer panal so switched to Ctrl+D
+
+hotkey.autociv.session.entity.by.class.select.(Dock|Defense_tower|Dog)&!Ship = "Ctrl+D"
+and
+hotkey.autociv.session.entity.by.class.select.(Dog)&!Ship = "Alt+D"
+
 # this user.cfg
 
 starts with:
