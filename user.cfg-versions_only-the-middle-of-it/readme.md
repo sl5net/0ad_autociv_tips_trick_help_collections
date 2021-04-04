@@ -18,10 +18,10 @@ hotkey.autociv.session.entity.by.class.select.(Elephant)&!Support = "Alt+D"
 ### this selects only Support&Elephant (not all Elephant):
 hotkey.autociv.session.entity.by.class.select.(Support&Elephant) = "Alt+E"
 
-# this selects only nowoundedonly using mouse (May think about oK. he is ok or so):
+### this selects only nowoundedonly using mouse (May think about oK. he is ok or so):
 hotkey.autociv.selection.nowoundedonly = "K"
 
-# this selects only woundedonly using mouse (think about: Lie down to bed better to geht healty again):
+### this selects only woundedonly using mouse (think about: Lie down to bed better to geht healty again):
 hotkey.selection.woundedonly = "L"
 
 
