@@ -1,4 +1,4 @@
-you cant remember the hotkeys?
+### you can't remember the hotkeys?
 try this:
 
 FirstLetter of the Building (press several times for toggling)
@@ -10,12 +10,12 @@ Ctrl+FirstLetter of the Building
 ALT+FirstLetter of the Creature
  ==> selects Creature or Creatures
 
-# exceptionally other spellings:
+### exceptionally other spellings:
 
-# this selects all >D<angerous E. archer-,war-,hero-Elephant,... (not Support&Elephant):
+### this selects all >D<angerous E. archer-,war-,hero-Elephant,... (not Support&Elephant):
 hotkey.autociv.session.entity.by.class.select.(Elephant)&!Support = "Alt+D"
 
-# this selects only Support&Elephant (not all Elephant):
+### this selects only Support&Elephant (not all Elephant):
 hotkey.autociv.session.entity.by.class.select.(Support&Elephant) = "Alt+E"
 
 # this selects only nowoundedonly using mouse (May think about oK. he is ok or so):
@@ -27,13 +27,13 @@ hotkey.selection.woundedonly = "L"
 
 
 
-# Howto find the names? i use create map scenario editor
+### Howto find the names? i use create map scenario editor
 
 BTW cant find WarElephant into the scenario editor
 
 
 
-# this user.cfg
+### this user.cfg
 
 starts with:
 
