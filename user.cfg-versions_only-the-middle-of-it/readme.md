@@ -35,6 +35,8 @@ BTW cant find WarElephant into the scenario editor
 
 ### this user.cfg
 
+~/snap/0ad/201/.config/0ad/config/user.cfg
+
 starts with:
 
  autociv.gamesetup.countdown.enabled = "false"
