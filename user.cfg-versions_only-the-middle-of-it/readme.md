@@ -52,6 +52,10 @@ or not included. take yours.
 
 no known problems at the moment 20210331205937
 
+BTW but check config clash with some hotkeys here:
+
+https://trac.wildfiregames.com/wiki/HotKeys
+
 ### not pretty:
 
 using Ctrl+O
