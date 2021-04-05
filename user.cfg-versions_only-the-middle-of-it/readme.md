@@ -51,3 +51,9 @@ or not included. take yours.
 ### Problems:
 
 no known problems at the moment 20210331205937
+
+### not pretty:
+
+using Ctrl+O
+
+starts creating Outoist AND open a other GUI window (not wandet at the moment 20210405075333)
