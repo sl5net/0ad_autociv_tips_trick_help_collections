@@ -34,6 +34,12 @@ hotkey.selection.woundedonly = "L"
 
 BTW cant find WarElephant into the scenario editor
 
+or look here:
+
+0ad-master/0ad-master/binaries/data/mods/public/maps/random/jebel_barkal.js
+
+https://github.com/0ad/0ad/blob/master/binaries/data/mods/public/maps/random/jebel_barkal.js
+
 
 
 ### this user.cfg
