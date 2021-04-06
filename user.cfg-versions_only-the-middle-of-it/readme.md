@@ -15,6 +15,9 @@ ALT+FirstLetter of the Creature
 ### this selects all >D<angerous E. archer-,war-,hero-Elephant,... (not Support&Elephant):
 hotkey.autociv.session.entity.by.class.select.(Elephant)&!Support = "Alt+D"
 
+### this selects all >N<on MilitaryWorker (Wim & Support&Elephant):
+nonMilitaryWorker=  "Alt+N" (any suggestions?)
+
 ### this selects only Support&Elephant (not all Elephant):
 hotkey.autociv.session.entity.by.class.select.(Support&Elephant) = "Alt+E"
 
