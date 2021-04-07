@@ -27,7 +27,10 @@ hotkey.autociv.selection.nowoundedonly = "K"
 ### this selects only woundedonly using mouse (think about: Lie down to bed better to geht healty again):
 hotkey.selection.woundedonly = "L"
 
+### wounded needs healer (think about key next to H -> J )
 
+hotkey.autociv.session.entity.by.class.select.Healer = "Alt+H"
+hotkey.autociv.session.entity.by.health.wounded.by.class.select.(Cavalry|Infantry|Soldier|Siege|Dog|Elephant|Support) = "Alt+J"
 
 
 ### Howto find the names? i use create map scenario editor
