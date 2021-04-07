@@ -32,6 +32,9 @@ hotkey.selection.woundedonly = "L"
 hotkey.autociv.session.entity.by.class.select.Healer = "Alt+H"
 hotkey.autociv.session.entity.by.health.wounded.by.class.select.(Cavalry|Infantry|Soldier|Siege|Dog|Elephant|Support) = "Alt+J"
 
+recomandet:
+
+set Optopms>Settings>GameSession>WoundetUnitHealth to 22 or so.
 
 ### Howto find the names? i use create map scenario editor
 
