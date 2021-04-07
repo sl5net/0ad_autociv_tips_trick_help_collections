@@ -30,6 +30,7 @@ hotkey.selection.woundedonly = "L"
 ### wounded needs healer (think about key next to H -> J )
 
 hotkey.autociv.session.entity.by.class.select.Healer = "Alt+H"
+
 hotkey.autociv.session.entity.by.health.wounded.by.class.select.(Cavalry|Infantry|Soldier|Siege|Dog|Elephant|Support) = "Alt+J"
 
 recomandet:
