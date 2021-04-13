@@ -47,9 +47,31 @@ or look here:
 
 https://github.com/0ad/0ad/blob/master/binaries/data/mods/public/maps/random/jebel_barkal.js
 
+## open discussion:
+
+### are this good names/shortcuts?
+
+### select Archer
+
+hotkey.autociv.session.entity.by.class.select.(Infantry&Archer|Elephant&Archer) = "Alt+A"
+
+### select military:
+hotkey.autociv.session.entity.by.class.select.(Soldier|Siege|Dog)&!Ship = "Alt+M"
+
+### select ... whats that:
+hotkey.autociv.session.entity.by.class.select.(Soldier|Siege|Dog)&!Ship&!Ram = "Alt+S"
+
+### select ... howto select speerman and swordsman?
+
+hotkey.autociv.session.entity.by.class.select.(Infantry&Speerman) = "Alt+S"
+
+hotkey.autociv.session.entity.by.class.select.(Infantry)&!Archer = "Alt+S"
 
 
-### this user.cfg
+# hotkey.autociv.session.entity.by.class.select.(Soldier|Siege|Dog)&!Ship&!Ram = "Alt+S"
+
+
+### this is user.cfg location in your linux:
 
 ~/snap/0ad/201/.config/0ad/config/user.cfg
 
