@@ -27,8 +27,15 @@ hotkey.autociv.selection.nowoundedonly = "K"
 ### this selects only woundedonly using mouse (think about: Lie down to bed better to geht healty again):
 hotkey.selection.woundedonly = "L"
 
+### dificult to remember: select Siege_Unit :
 
+select https://0ad.fandom.com/wiki/Siege_Unit 's :
 
+rams, not heros, Catapult, Bolt Shooter, Siege Tower
+
+hotkey.autociv.session.entity.by.class.select.Siege = "Alt+V"
+
+suggestion?
 
 ### Howto find the names? i use create map scenario editor
 
