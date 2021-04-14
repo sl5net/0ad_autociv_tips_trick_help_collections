@@ -38,6 +38,8 @@ BTW cant find WarElephant into the scenario editor
 
 ### this user.cfg
 
+replace beetween:
+
 starts with:
 
  autociv.gamesetup.countdown.enabled = "false"
@@ -48,6 +50,14 @@ lobby.history = "150"
 
 lines later like: lobby.login
 or not included. take yours.
+
+
+#### user.cfg in ubuntu snap:
+
+~/snap/0ad/201/.config/0ad/config/user.cfg
+
+#### user.cfg in windows?:
+
 
 ### Problems:
 
