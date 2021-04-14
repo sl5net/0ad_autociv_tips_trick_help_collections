@@ -62,3 +62,12 @@ or not included. take yours.
 ### Problems:
 
 no known problems at the moment 20210331205937
+
+# interesting
+
+## selects not tower:
+hotkey.autociv.session.entity.by.class.select.(Defense_tower|Sentry_tower|Temple) = "Ctrl+T
+## selects (senty-)/towers:
+hotkey.autociv.session.entity.by.class.select.(Temple|Tower)&!Ship = "Ctrl+T"
+
+
