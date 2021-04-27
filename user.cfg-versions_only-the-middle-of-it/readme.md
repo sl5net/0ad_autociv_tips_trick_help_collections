@@ -75,7 +75,20 @@ hotkey.autociv.session.entity.by.class.select.(Infantry)&!Archer = "Alt+S"
 
 ~/snap/0ad/201/.config/0ad/config/user.cfg
 
-starts with:
+#### default.cfg
+
+default.cfg is specified here: https://github.com/0ad/0ad/blob/master/binaries/data/config/default.cfg
+On Linux, create:                                          *
+; *   $XDG_CONFIG_HOME/0ad/config/local.cfg                    *
+; *   (Note: $XDG_CONFIG_HOME defaults to ~/.config)           *
+; *                                                            *
+; * On OS X, create:                                           *
+; *   ~/Library/Application\ Support/0ad/config/local.cfg      *
+; *                                                            *
+; * On Windows, create:                                        *
+; *   %appdata%\0ad\config\local.cfg  
+
+#### starts with:
 
  autociv.gamesetup.countdown.enabled = "false"
 
