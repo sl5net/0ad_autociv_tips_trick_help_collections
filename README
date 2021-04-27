@@ -1,7 +1,20 @@
-
 this is using
 https://wildfiregames.com/forum/topic/28753-autociv-mod-0ad-enhancer/
 
+# default.cfg
+
+default.cfg is specified here: https://github.com/0ad/0ad/blob/master/binaries/data/config/default.cfg
+On Linux, create:                                          *
+; *   $XDG_CONFIG_HOME/0ad/config/local.cfg                    *
+; *   (Note: $XDG_CONFIG_HOME defaults to ~/.config)           *
+; *                                                            *
+; * On OS X, create:                                           *
+; *   ~/Library/Application\ Support/0ad/config/local.cfg      *
+; *                                                            *
+; * On Windows, create:                                        *
+; *   %appdata%\0ad\config\local.cfg  
+
+# user.cfg
 
 # about this user.cfg files
 
