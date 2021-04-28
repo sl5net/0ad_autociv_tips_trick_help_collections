@@ -63,8 +63,9 @@ or not included. take yours.
 
 ~/snap/0ad/201/.config/0ad/config/user.cfg
 
-#### user.cfg in windows?:
+#### user.cfg in windows:
 
+%appdata%\0ad\config\user.cfg
 
 ### Problems:
 
