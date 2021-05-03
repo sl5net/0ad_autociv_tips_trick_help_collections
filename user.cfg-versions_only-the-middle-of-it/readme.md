@@ -1,4 +1,30 @@
+
+
 ### you can't remember the hotkeys?
+
+
+
+this redme is deprecated.
+DONT use it:
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+
+
+
+
+
+
+
+
+
 
 maybe the follwong subfolder content helps.
 
