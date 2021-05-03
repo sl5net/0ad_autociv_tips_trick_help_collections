@@ -37,6 +37,11 @@ hotkey.autociv.session.entity.by.class.select.Siege = "Alt+V"
 
 suggestion?
 
+### selects diplomacy with Ctrl+< (think about: give out, move resources to your partners):
+
+hotkey.session.gui.diplomacy.toggle = "Ctrl+SYM_100"
+
+
 ### Howto find the names? i use create map scenario editor
 
 BTW cant find WarElephant into the scenario editor
