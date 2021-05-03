@@ -2,39 +2,6 @@
 
 maybe the follwong subfolder content helps.
 
-this redme is deprecated.
-DONT use it:
-
-
-#
-#
-#
-#
-#
-#
-#
-#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 FirstLetter of the Building (press several times for toggling)
  ==> build the Building
 
