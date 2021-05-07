@@ -21,6 +21,9 @@ hotkey.autociv.session.entity.by.class.select.(Support&Elephant) = "Alt+E"
 ### select Barracks + ElephantStable + Stable) "Ctrl+X" (remember X like nearly everythink)
 hotkey.autociv.session.entity.by.class.select.(Barracks|ElephantStable|Stable) = "Ctrl+X"
 
+### select all military is of course Alt+M but also Alt+X (remember X like nearly everythink)
+hotkey.autociv.session.entity.by.class.select.(Soldier|Siege|Dog)&!Ship = "Alt+M", "Alt+X"
+
 ### this selects only nowoundedonly using mouse (May think about oK. he is ok or so):
 hotkey.autociv.selection.nowoundedonly = "K"
 
