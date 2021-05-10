@@ -1,0 +1,9 @@
+use 
+
+Name":"([^"(]+)(?:\((\d*)\))?([^"]*)","Civ":"([^"]+)"
+
+in commands.txt
+
+to get short data out for short title somwehere
+
+https://stackoverflow.com/questions/67475250/get-3-or-2-groups-one-is-optional-from-string
