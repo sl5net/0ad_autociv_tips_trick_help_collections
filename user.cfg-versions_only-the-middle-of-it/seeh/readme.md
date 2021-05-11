@@ -1,3 +1,7 @@
+### todo:
+
+in A24 skirmish cav are called cavalry_javelineer instead of javelinist  
+
 ### you can't remember the hotkeys?
 try this:
 
