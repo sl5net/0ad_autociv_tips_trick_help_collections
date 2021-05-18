@@ -71,7 +71,7 @@ lines later like: lobby.login
 or not included. take yours.
 
 
-#### user.cfg in ubuntu snap:
+#### user.cfg in ubuntu maybe:
 
 ~/snap/0ad/201/.config/0ad/config/user.cfg
 
