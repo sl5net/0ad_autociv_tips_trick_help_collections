@@ -75,6 +75,10 @@ or not included. take yours.
 
 ~/snap/0ad/201/.config/0ad/config/user.cfg
 
+.... /0ad/binaries/data/config/user.cfg
+
+~/snap/0ad/206/.config/0ad/config/user.cfg
+
 #### user.cfg in windows:
 
 %appdata%\0ad\config\user.cfg
