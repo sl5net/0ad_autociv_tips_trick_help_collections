@@ -1,3 +1,7 @@
+# A24 
+
+this is not totally tested in A25
+
 ### todo:
 
 in A24 skirmish cav are called cavalry_javelineer instead of javelinist  
