@@ -101,3 +101,18 @@ hotkey.autociv.session.entity.by.class.select.(Defense_tower|Sentry_tower|Temple
 hotkey.autociv.session.entity.by.class.select.(Temple|Tower)&!Ship = "Ctrl+T"
 
 
+### some comments about the cnanges:
+little simplification:
+
+hotkey.autociv.session.entity.by.class.select.(Infantry&Archer|Infantry&Slinger|Infantry&Javelineer|Elephant&Archer) = "Alt+A"
+hotkey.autociv.session.entity.by.class.select.(Infantry&Soldier)&!Slinger&!Slinger&!Javelineer&!Archer&!Spearman = "Alt+S"
+hotkey.autociv.session.entity.by.class.select.(Infantry&Pikeman|Infantry&Spearman|Champion&Fanatic) = "Alt+P"
+
+=>
+
+hotkey.autociv.session.entity.by.class.select.(Archer|Slinger|Javelineer|Archer) = "Alt+A"
+hotkey.autociv.session.entity.by.class.select.(Soldier)&!Slinger&!Javelineer&!Archer&!Spearman = "Alt+S"
+hotkey.autociv.session.entity.by.class.select.(Pikeman|Spearman|Fanatic) = "Alt+P"
+
+
+maybe its later not optimal. so here its to easy remember
