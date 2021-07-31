@@ -85,6 +85,10 @@ or not included. take yours.
 
 ~/snap/0ad/206/.config/0ad/config/user.cfg
 
+~/.config/0ad/config/user.cfg in my ubuntu
+
+^- this i used in the (self) compiled version of A25 2021-0731_2023-48
+
 #### user.cfg in windows:
 
 %appdata%\0ad\config\user.cfg
