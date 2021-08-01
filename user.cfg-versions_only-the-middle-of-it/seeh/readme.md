@@ -1,6 +1,17 @@
+# A24 -> A25 . some changes 
+
+i need change:
+
+A24: hotkey.autociv.session.building.autotrain.enable = "B", "V", "X", "Z", "C", "Y", "Super+Q"
+
+too
+
+A25: hotkey.session.queueunit.autoqueueon = "B", "V", "X", "Z", "C", "Y"
+
 # A24 
 
-this is not totally tested in A25
+tested in A25 at 2021-0801_1253-34 not found any issue at the moment. great :)
+may not totally tested in A25.
 
 ### todo:
 
