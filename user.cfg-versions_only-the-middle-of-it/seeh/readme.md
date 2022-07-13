@@ -33,6 +33,7 @@ ALT+FirstLetter of the Creature
 space = jump/toggle last attack
 
 ## build examles:
+```
 space = jump/toggle last attack
 h = build house
 m = build markt
@@ -41,20 +42,24 @@ f = build farm
 f,f = build farmstead
 f,f,f = build fortress
 .... etc. understand?
+```
 
 ## select buildings examles:
+```
 space = jump/toggle last attack
 ctrl+ h = select house
 ctrl+ m = select markt
 ctrl+ b = select backack
 ctrl+ f = select farm
 ... etc.
-
+```
 ## select Creatures examles:
+```
 alt+w = select wimens
 alt+i = select infrantrie
 alt+i = select picmans
 .... etc. understand?
+```
 
 ### exceptionally other spellings:
 
